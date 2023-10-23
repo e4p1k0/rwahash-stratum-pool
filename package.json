@@ -27,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool.git"
+        "url": "https://github.com/e4p1k0/rwahash-stratum-pool.git"
     },
     "dependencies": {
         "async": "^3.2.0",
