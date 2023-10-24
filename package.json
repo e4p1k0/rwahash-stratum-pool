@@ -35,9 +35,9 @@
         "bchaddrjs": "^0.4.9",
         "bignum": "^0.13.1",
         "bitcoinjs-lib": "^5.1.10",
-        "multi-hashing": "https://github.com/e4p1k0/rwahash-multi-hashing.git"
+        "multi-hashing": "https://github.com/e4p1k0/node-multi-hashing.git"
     },
     "engines": {
-        "node": ">=8.11"
+        "node": ">=12"
     }
 }
