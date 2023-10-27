@@ -31,10 +31,10 @@
     },
     "dependencies": {
         "async": "^3.2.0",
-        "base58-native": "^0.1.4",
         "bchaddrjs": "^0.4.9",
         "bignum": "^0.13.1",
         "bitcoinjs-lib": "^5.1.10",
+        "bs58": "^5.0.0",
         "multi-hashing": "https://github.com/e4p1k0/node-multi-hashing.git"
     },
     "engines": {
