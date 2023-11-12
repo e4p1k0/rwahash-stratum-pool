@@ -8,15 +8,11 @@
         "pool",
         "server",
         "poolserver",
-        "bitcoin",
-        "litecoin",
-        "scrypt",
-        "yespower",
-        "lyra2re2"
+        "rwahash"
     ],
-    "homepage": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool",
+    "homepage": "https://github.com/e4p1k0/stratum-pool",
     "bugs": {
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool/issues"
+        "url": "https://github.com/e4p1k0/stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -27,7 +23,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/e4p1k0/rwahash-stratum-pool.git"
+        "url": "https://github.com/e4p1k0/stratum-pool.git"
     },
     "dependencies": {
         "async": "^3.2.0",
